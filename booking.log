@@ -1,0 +1,5 @@
+Invalid booking data: {'class_id': [ErrorDetail(string='Fitness class not found.', code='invalid')]}
+Booking created: 502E8C6A for john@example.com
+Retrieved 1 bookings for john@example.com
+Retrieved 1 bookings for john@example.com
+Retrieved 1 bookings for john@example.com
