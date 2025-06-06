@@ -1,4 +1,4 @@
-git clone
+git clone https://github.com/Teja-re/fitness_booking.git
 cd fitness-api
 pip install -r requirements.txt
 
